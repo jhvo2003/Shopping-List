@@ -1,3 +1,3 @@
 # Shopping-List
 
-Live Here - https://jason-vo-shopping-list.netlify.app/
+Live Here - https://jason-vo-shoppinglist.netlify.app/
