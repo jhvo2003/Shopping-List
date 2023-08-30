@@ -9,7 +9,6 @@ let editMode = false;
 onOpen();
 
 
-
 function onOpen(){
     checkUI();
     itemForm.addEventListener("submit", onItemSubmit);
